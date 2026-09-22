@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b33753ff.css",
-    "main.js": "/static/js/main.a683fa40.js",
-    "static/js/453.ec5188de.chunk.js": "/static/js/453.ec5188de.chunk.js",
-    "index.html": "/index.html",
-    "main.b33753ff.css.map": "/static/css/main.b33753ff.css.map",
-    "main.a683fa40.js.map": "/static/js/main.a683fa40.js.map",
-    "453.ec5188de.chunk.js.map": "/static/js/453.ec5188de.chunk.js.map"
+    "main.css": "/saidaa123/my-react-admin/static/css/main.b33753ff.css",
+    "main.js": "/saidaa123/my-react-admin/static/js/main.d3f37262.js",
+    "static/js/453.ec5188de.chunk.js": "/saidaa123/my-react-admin/static/js/453.ec5188de.chunk.js",
+    "index.html": "/saidaa123/my-react-admin/index.html",
+    "main.b33753ff.css.map": "/saidaa123/my-react-admin/static/css/main.b33753ff.css.map",
+    "main.d3f37262.js.map": "/saidaa123/my-react-admin/static/js/main.d3f37262.js.map",
+    "453.ec5188de.chunk.js.map": "/saidaa123/my-react-admin/static/js/453.ec5188de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b33753ff.css",
-    "static/js/main.a683fa40.js"
+    "static/js/main.d3f37262.js"
   ]
 }
