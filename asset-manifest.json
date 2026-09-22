@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/saidaa123/my-react-admin/static/css/main.b33753ff.css",
-    "main.js": "/saidaa123/my-react-admin/static/js/main.d3f37262.js",
-    "static/js/453.ec5188de.chunk.js": "/saidaa123/my-react-admin/static/js/453.ec5188de.chunk.js",
-    "index.html": "/saidaa123/my-react-admin/index.html",
-    "main.b33753ff.css.map": "/saidaa123/my-react-admin/static/css/main.b33753ff.css.map",
-    "main.d3f37262.js.map": "/saidaa123/my-react-admin/static/js/main.d3f37262.js.map",
-    "453.ec5188de.chunk.js.map": "/saidaa123/my-react-admin/static/js/453.ec5188de.chunk.js.map"
+    "main.css": "/my-react-admin/static/css/main.b33753ff.css",
+    "main.js": "/my-react-admin/static/js/main.14d2d685.js",
+    "static/js/453.ec5188de.chunk.js": "/my-react-admin/static/js/453.ec5188de.chunk.js",
+    "index.html": "/my-react-admin/index.html",
+    "main.b33753ff.css.map": "/my-react-admin/static/css/main.b33753ff.css.map",
+    "main.14d2d685.js.map": "/my-react-admin/static/js/main.14d2d685.js.map",
+    "453.ec5188de.chunk.js.map": "/my-react-admin/static/js/453.ec5188de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b33753ff.css",
-    "static/js/main.d3f37262.js"
+    "static/js/main.14d2d685.js"
   ]
 }
